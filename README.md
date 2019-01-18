@@ -9,7 +9,6 @@
 The problem that we are trying to solve is over-eating and/or wasting energy, by locking users out of their refrigerator. Leaving the fridge door open for too long wastes energy and leaving the door open is a bad habit. Also, opening the fridge to grab snacks multiple times could also lead to weight problems that could easily be stopped. We will have a sensor to check how many times and how long a refrigerator is opened and lock the door after a specific amount of time.
 
 ## Initial Design Plan
-*You'll complete this section as part of Milestone 1, and update regularly.*
 Physical Components:
 - A fridge, the primary subject
 - electronic lock, locks the door when opened too many times and too long
@@ -22,7 +21,6 @@ Coding Components
 - code that sets the door to lock
 - checker to see how many times the door opens
 
-
 **Sample image**:
 
 ![A sample image to show how to add one to a repo](images/example.png "A sample image. This is the text that appears.")
@@ -32,8 +30,10 @@ as projects evolve over time.
 
 ## Files
 *You'll complete this section as part of Milestone 1.*
-
-List every file in your repository, and briefly summarize each file's purpose in a sentence.
+images            - a folder which will contain images of the project hardware.
+LICENSE           - It's the license that allows certain software usage for the project.
+README.md         - the README.md is this document which will be used to help users understand what our product does.
+example-README.md - an example to help developers create the README.md file.
 
 ## Summary
 *You'll complete this part at the end of the project.*
