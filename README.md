@@ -1,5 +1,13 @@
 # P00: Stuffer Stopper
-
+```diff
+- Nice project idea. Do you think I'm your intended audience? What are you trying to say exactly, guys?
+- Remove ALL help text (in italics) and images (e.g., the sample image). This document should be your writing ONLY.  
+- Pay attention to your Markdown formatting (see Files section for context). 
+- A wiring diagram in initial design plan would have helped clarify the layout of the build and how it all interconnects.
+- Your coding component could be more detailed. For instance, when does the door get set to lock? And why doesn't it ever unlock?
+- Will delay functions suffice for controlling timing aspects? Or, do you need a Real-time clock (RTC) to do accurate date/time information?
+- NO REFERENCES?!!? 
+```
 **Author(s)**: *Rusty Dotson, Hayes Clark*
 
 **Google Document**: *https://docs.google.com/document/d/1Yr8ZmxMphmbY5k99sDViwSRO1JFI8glimYSl_ks4h9w/edit?usp=sharing*
