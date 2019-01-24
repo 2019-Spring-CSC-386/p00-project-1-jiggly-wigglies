@@ -2,6 +2,7 @@
 ```diff
 - Nice project idea. Do you think I'm your intended audience? What are you trying to say exactly, guys?
 - Remove ALL help text (in italics) and images (e.g., the sample image). This document should be your writing ONLY.  
+- Journals did not follow instructions (except for 1 day by Rusty). Pay attention to the prompts, and discussions about it in class.
 - Pay attention to your Markdown formatting (see Files section for context). 
 - A wiring diagram in initial design plan would have helped clarify the layout of the build and how it all interconnects.
 - Your coding component could be more detailed. For instance, when does the door get set to lock? And why doesn't it ever unlock?
