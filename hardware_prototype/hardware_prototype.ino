@@ -20,6 +20,8 @@
   This example code is in the public domain.
 
   http://www.arduino.cc/en/Tutorial/Button
+  incremented counter using this source: http://forum.arduino.cc/index.php?topic=129170.0
+  incremented timer using help from Cody Mitchell.
 */
 
 // constants won't change. They're used here to set pin numbers:
