@@ -37,8 +37,3 @@ README.md         - the README.md is this document which will be used to help us
 example-README.md - an example to help developers create the README.md file.
 
 hardware_prototype/hardware_prototype.ino - The program used for the arduino to use the lock based on the number of opens.
-
-
-## Instructions
-Explain how to use your product. 
-This section should THOROUGHLY describe its usage (i.e., more than just "Push start").
