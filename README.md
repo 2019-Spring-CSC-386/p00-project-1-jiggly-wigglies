@@ -1,5 +1,9 @@
 # P00: Stuffer Stopper
 ```diff
+- NOTE: I accidentally put feedback on your MASTER branch instead of my M1-feedback branch. You'll need to pull down those changes before the next time you start using this repo, if you had it cloned anywhere. Sorry about that. 
+
+- !!!!!!!!!!!!!!FULL FEEDBACK IN BRANCH M1-FEEDBACK!!!!!!!!!!!!
+
 - Nice project idea. Do you think I'm your intended audience? What are you trying to say exactly, guys?
 - Remove ALL help text (in italics) and images (e.g., the sample image). This document should be your writing ONLY.  
 - Journals did not follow instructions (except for 1 day by Rusty). Pay attention to the prompts, and discussions about it in class.
