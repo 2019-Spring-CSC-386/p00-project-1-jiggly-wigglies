@@ -25,7 +25,7 @@ Coding Components
 
 **Images**:
 
-![Prototype #1](images/prototype.png)
+![Prototype #1](images/prototype.jpg)
 
 ## Files
 images            - a folder which will contain images of the project hardware.
