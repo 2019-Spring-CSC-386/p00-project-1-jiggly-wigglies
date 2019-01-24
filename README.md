@@ -10,11 +10,13 @@ The problem that we are trying to solve is over-eating and/or wasting energy, by
 
 ## Initial Design Plan
 Physical Components:
-- A fridge, the primary subject
+- refridgerator, the primary subject
 - electronic lock, locks the door when opened too many times and too long
-- light sensor, checks when the door is opened
-- laser, to point at the light sensor to send signals
+- door sensor, checks when the door is opened
 - Arduino, used to program the locking mechanism
+- capacitor, prevent misreads on the door sensor
+- resistor, used to create a voltage divider
+- LED, used as an example of a door lock
 
 Coding Components
 - timer
