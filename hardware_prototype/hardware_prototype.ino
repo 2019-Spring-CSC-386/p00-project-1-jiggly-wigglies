@@ -26,7 +26,7 @@
 
 // constants won't change. They're used here to set pin numbers:
 const int sensorPin = 3;     // the number of the pushbutton pin
-const int ledPin =  8;      // the number of the LED pin
+const int lockPin =  8;      // the number of the LED pin
 
 // variables will change:
 int sensorState = 0;         // variable for reading the pushbutton status
@@ -36,7 +36,7 @@ int timer = 0;
 
 void setup() {
   // initialize the LED pin as an output:
-  pinMode(ledPin, OUTPUT);
+  pinMode(lockPin, OUTPUT);
   // initialize the pushbutton pin as an input:
   pinMode(sensorPin, INPUT);
   Serial.begin(9600);
@@ -59,9 +59,9 @@ lastsensorState = sensorState;
 
   // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
   if (numOpens >= 5){
-    digitalWrite(ledPin, HIGH);
+    digitalWrite(lockPin, HIGH);
     delay(5000);
-    digitalWrite(ledPin, LOW);
+    digitalWrite(lockPin, LOW);
     numOpens = 0;
   }
 delay(10);
