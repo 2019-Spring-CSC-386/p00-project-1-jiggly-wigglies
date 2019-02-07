@@ -26,8 +26,9 @@ Coding Components
 ## Instructions
 1. Mount the metal plate on to the desired door
 2. Mount the white magnet to same door
-3. mount the door sensor to the frame, such that it aligns with the magnet when the door is shut
-4.
+3. Mount the door sensor to the frame, such that it aligns with the magnet when the door is shut
+4. Mount the electromagnet such that it contacts the metal plate when the door is shut 
+5. Power on the device, it will automatically lock the door for an hour after you have opened the door 5 times in the span of an hour
 
 **Images**:
 
