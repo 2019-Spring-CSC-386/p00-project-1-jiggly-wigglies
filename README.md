@@ -23,6 +23,16 @@ Coding Components
 - code that sets the door to lock
 - checker to see how many times the door opens
 
+## Summary
+  During our planning phase, we both encountered issues related to sleep deprivation, and time wasted playing video games.
+Bad eating habits seemed to be a less prevalent issue, but we finally decided to create a device to automatically lock a fridge
+based on the fact that the other two ideas seemed to already have reasonable solutions to deal with them. 
+
+  For our initial design plan, we were going to use a laser and a light dependent resistor to detect when the door was opened, but elected to use a magnetic door sensor when we found some in the lab. Our final implementation detects when the door opens using a magnetic sensor, then increments a counter. When the counter hits a certain value within a specified amount of time, the electromagnet lock turns on.
+  
+  We estimate that we spent a total of 10-12 hours to complete this project. A challenge that we overcame that was not required for the project was using a transistor to control an external power supply because we were using a device that required 12 volts.
+
+
 ## Instructions
 1. Mount the metal plate on to the desired door
 2. Mount the white magnet to same door
