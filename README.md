@@ -46,6 +46,22 @@ based on the fact that the other two ideas seemed to already have reasonable sol
 - User can not see how much time is left on the lock
 - User can not see number of opens remaining
 - Lock is not strong enough to prevent a hard pull
+
+## Reflection
+
+While we think this project ended up good, there are certain things we would like to change, given time to do so. 
+We would like to use an LCD screen to perform several functions. We want to have a menu that allows users to set their own parameters, like amount of time that the door stays locked, how many times the door ust be opened, and the time interval before the counter resets.
+
+Our final design meets the expectations that we initally had for this project. Its very simple, yet effective in its execution. It's easy for the end user since it only requires mounting in order to be used. In conclusion, we think this project generally turned out well, and if we had to restart from the beginning, we would do the same project, but implement it with a screen and user input.
+
+## References
+
+This is where we got the example code to increment a counter.
+http://forum.arduino.cc/index.php?topic=129170.0
+
+This is where example code for our diital input came from.
+http://www.arduino.cc/en/Tutorial/Button
+
 **Images**:
 
 ![Prototype #1](images/prototype.jpg)
