@@ -40,6 +40,12 @@ based on the fact that the other two ideas seemed to already have reasonable sol
 4. Mount the electromagnet such that it contacts the metal plate when the door is shut 
 5. Power on the device, it will automatically lock the door for an hour after you have opened the door 5 times in the span of an hour
 
+## Errors And Constraints
+- User has no way to adjust number of opens or refresh time
+- No feedback other than locking
+- User can not see how much time is left on the lock
+- User can not see number of opens remaining
+- Lock is not strong enough to prevent a hard pull
 **Images**:
 
 ![Prototype #1](images/prototype.jpg)
