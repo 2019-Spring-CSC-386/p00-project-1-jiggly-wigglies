@@ -23,7 +23,7 @@ Coding Components
 - code that sets the door to lock
 - checker to see how many times the door opens
 
-##Instructions
+## Instructions
 
 **Images**:
 
