@@ -24,6 +24,10 @@ Coding Components
 - checker to see how many times the door opens
 
 ## Instructions
+1. Mount the metal plate on to the desired door
+2. Mount the white magnet to same door
+3. mount the door sensor to the frame, such that it aligns with the magnet when the door is shut
+4.
 
 **Images**:
 
