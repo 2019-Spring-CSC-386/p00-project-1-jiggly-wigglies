@@ -73,6 +73,32 @@ images            - a folder which will contain images of the project hardware.
 
 LICENSE           - It's the license that allows certain software usage for the project.
 
+## Final Self-Evaluations
+
+### Ideation, Brainstorming, Design:
+
+*Rusty: 5*
+
+*Hayes: 5*
+
+### Code creation: 
+
+*Rusty: 7*
+
+*Hayes: 3*
+
+### Documentation creation:
+
+*Rusty: 3*
+
+*Hayes: 7*
+
+### Teamwork & Participation:
+
+*Rusty: 4*
+
+*Hayes: 6*
+
 README.md         - the README.md is this document which will be used to help users understand what our product does.
 
 example-README.md - an example to help developers create the README.md file.
