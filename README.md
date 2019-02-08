@@ -73,6 +73,12 @@ images            - a folder which will contain images of the project hardware.
 
 LICENSE           - It's the license that allows certain software usage for the project.
 
+README.md         - the README.md is this document which will be used to help users understand what our product does.
+
+example-README.md - an example to help developers create the README.md file.
+
+hardware_prototype/hardware_prototype.ino - The program used for the arduino to use the lock based on the number of opens.
+
 ## Final Self-Evaluations
 
 ### Ideation, Brainstorming, Design:
@@ -98,9 +104,3 @@ LICENSE           - It's the license that allows certain software usage for the 
 *Rusty: 4*
 
 *Hayes: 6*
-
-README.md         - the README.md is this document which will be used to help users understand what our product does.
-
-example-README.md - an example to help developers create the README.md file.
-
-hardware_prototype/hardware_prototype.ino - The program used for the arduino to use the lock based on the number of opens.
