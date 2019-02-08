@@ -60,7 +60,7 @@ lastsensorState = sensorState;
   // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
   if (numOpens >= 5){
     digitalWrite(lockPin, HIGH);
-    delay(5000);
+    delay(3600000);
     digitalWrite(lockPin, LOW);
     numOpens = 0;
   }
